@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bundle-SymbolicName: testing; singleton:=true
+Bundle-SymbolicName: testing
 Bundle-ManifestVersion: 2
 Origin-Bundle-SymbolicName: testing
 Origin-Bundle-Version: 1.0.1
