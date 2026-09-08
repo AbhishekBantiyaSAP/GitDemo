@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-SymbolicName: testing; singleton:=true
 Bundle-ManifestVersion: 2
 Origin-Bundle-SymbolicName: testing
-Origin-Bundle-Version: 1.0.0
+Origin-Bundle-Version: 1.0.1
 Import-Package: com.sap.esb.application.services.cxf.interceptor,com.sap
  .esb.security,com.sap.it.op.agent.api,com.sap.it.op.agent.collector.cam
  el,com.sap.it.op.agent.collector.cxf,com.sap.it.op.agent.mpl,javax.jms,
