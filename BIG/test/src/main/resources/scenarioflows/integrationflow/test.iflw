@@ -91,7 +91,7 @@
             <bpmn2:extensionElements/>
         </bpmn2:participant>
     </bpmn2:collaboration>
-    <bpmn2:process id="Process_1" name="Integration Process">
+    <bpmn2:process id="Process_1" name="Integration Process - Git Test">
         <bpmn2:extensionElements>
             <ifl:property>
                 <key>cmdVariantUri</key>
