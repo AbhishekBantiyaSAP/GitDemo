@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: testartefact
+Bundle-SymbolicName: testartefact
+Bundle-Version: 1.0.0
+SAP-BundleType: ValueMapping
+SAP-NodeType: IFLMAP
+Import-Package: com.sap.xi.mapping.camel.valmap
+Bundle-Activator: com.sap.xi.mapping.camel.valmap.ValueMappingActivator
+Origin-Bundle-Name: testartefact
+Origin-Bundle-Version: 1.0.0
+Origin-Bundle-SymbolicName: testartefact
+Origin-ModifiedDate: 1765186378716
+
